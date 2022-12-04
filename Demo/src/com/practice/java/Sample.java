@@ -7,10 +7,15 @@ public class Sample {
 
 	}
 
+	public void add() {
+		System.out.println("add method");
+
+	}
+
 	public static void main(String[] args) {
 		System.out.println("hello");
 		System.out.println("hi sayali");
-		
+
 	}
 
 }
