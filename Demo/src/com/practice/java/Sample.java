@@ -9,6 +9,10 @@ public class Sample {
 		System.out.println("this is read method");
 	}
 
+	public void read1() {
+		System.out.println("this is read1  method");
+	}
+
 	public static void main(String[] args) {
 		System.out.println("hello");
 		System.out.println("hi sayali");
