@@ -15,6 +15,7 @@ public class Sample {
 		Sample s = new Sample();
 		s.add();
 		s.read();
+
 	}
 
 }
